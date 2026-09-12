@@ -49,4 +49,4 @@ See `03_Architecture_and_Flowchart/` for the architecture diagram and flowchart.
 ## Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-username]/IDB30102_GroupAL_BlockchainSecurity.git
+   git clone https://github.com/zhrfnzaidi/IDB30102_GroupAL_BlockchainSecurity.git
