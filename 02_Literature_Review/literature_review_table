@@ -10,3 +10,4 @@ Blockchain security research is fragmented, with studies focusing on individual 
 This research addresses both gaps by:
 1. Proposing a multimodal deep learning prototype that integrates source code, opcode sequences, and control-flow graphs.
 2. Positioning smart contract security within a broader multi-layer blockchain security context.
+3
