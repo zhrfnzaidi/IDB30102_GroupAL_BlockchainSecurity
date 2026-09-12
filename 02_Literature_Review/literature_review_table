@@ -1,0 +1,12 @@
+# Research Gap Analysis
+
+## Gap 1: Limited Generalisation of Single-Representation Detection
+Current AI-based vulnerability detection approaches predominantly rely on a single representation of smart contract code — source code, opcode sequences, or control-flow graphs — limiting their ability to capture the full semantic complexity of contracts.
+
+## Gap 2: Fragmented Multi-Layer Security Solutions
+Blockchain security research is fragmented, with studies focusing on individual threats in isolation.
+
+## Positioning of This Research
+This research addresses both gaps by:
+1. Proposing a multimodal deep learning prototype that integrates source code, opcode sequences, and control-flow graphs.
+2. Positioning smart contract security within a broader multi-layer blockchain security context.
